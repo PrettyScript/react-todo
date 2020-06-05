@@ -1,0 +1,22 @@
+.main {
+    padding-top: 5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.inputs {
+    margin-bottom: 3rem;
+}
+
+.font-awesome {
+    font-size: 30px;
+    color: darkblue;
+    padding-top: 2vh;
+    cursor: pointer;
+}
+
+.material-button {
+    padding-top: 2vh;
+}
