@@ -1,0 +1,24 @@
+.main {
+    padding-top: 5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    /* border: 3px solid black; */
+}
+
+.inputs {
+    margin-bottom: 3rem;
+}
+
+.font-awesome {
+    /* border: 2px solid green; */
+    font-size: 30px;
+    color: darkblue;
+    padding-top: 2vh;
+    cursor: pointer;
+}
+
+.material-button {
+    padding-top: 2vh;
+}
